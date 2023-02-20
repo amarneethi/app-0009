@@ -38,7 +38,7 @@ const ManageBeneficiary = () => {
         value: 2,
       },
       beneficiaryName: {
-        label: "Beneficiary Name",
+        label: "Name",
         value: "Alexandra Smith",
       },
       beneficiaryRelationship: {
